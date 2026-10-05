@@ -1,0 +1,16 @@
+* text=auto eol=lf
+
+# CAD и производство: не сравнивать и не сливать построчно
+*.FCStd binary
+*.step  binary
+*.STEP  binary
+*.stp   binary
+*.stl   binary
+*.STL   binary
+*.zip   binary
+
+# Документы и изображения
+*.pdf   binary
+*.png   binary
+*.jpg   binary
+*.jpeg  binary

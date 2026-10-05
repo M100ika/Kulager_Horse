@@ -1,0 +1,42 @@
+# ОС и редакторы
+.DS_Store
+Thumbs.db
+desktop.ini
+*~
+*.swp
+.idea/
+.vscode/*
+!.vscode/extensions.json
+
+# FreeCAD: резервные копии
+*.FCStd1
+*.FCStd2
+*.FCBak
+
+# KiCad: резервные копии, автосохранение, локальные настройки
+*-backups/
+*.kicad_prl
+*.lck
+fp-info-cache
+_autosave-*
+\#auto_saved_files\#
+*.bak
+*-bak
+
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Мобильное приложение (дополнить после выбора фреймворка)
+node_modules/
+
+# Секреты
+.env
