@@ -1,0 +1,8 @@
+{
+  "reopened_fcstd_valid": true,
+  "step_valid": true,
+  "step_solids": 67,
+  "step_volume_mm3": 4290478.32158971,
+  "expected_volume_mm3": 4290478.32158971,
+  "interferences": []
+}

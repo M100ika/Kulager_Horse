@@ -1,0 +1,30 @@
+item,quantity,description,status
+motor-ak80-64,2,CubeMars AK80-64 Kv80 with driver,verify owned revision and mounting drawing
+base,1,Al 6061 plate 320x280x6,concept geometry only
+mount-rail,2,Al longitudinal saddle rail,detail retention and verify loads
+saddle-adapter,4,Tree interface with non-slip pad,saddle measurements required
+retention-strap,4,25 mm strap and load-rated anchor,route only in CAD
+motor-adapter,2,Al plate 122x106x4,add vendor mounting pattern after verification
+release-clutch,2,Normally disengaged clutch envelope D70x20,NOT SELECTED
+torque-limiter,2,Mechanical low torque limiter envelope D58x8,NOT SELECTED
+drum,2,Working R25 flanges D64 webbing width 15,detail shaft and webbing attachment
+output-shaft,2,D12 independent drum shaft,detail retention and torque transfer
+bearing,2,D28 d12 envelope,bearing and fits NOT SELECTED
+bearing-bridge,2,Al output support bridge,detail bolting and encoder mount
+bearing-post,4,Independent output support post,detail threaded ends
+force-sensor,2,Force sensing fairlead envelope,select transducer and load path
+output-encoder,2,Independent drum absolute position sensor,select module and calibration
+manual-release,2,Release under load downstream of fairlead,NOT SELECTED
+release-handle,1,Common handle and two Bowden cables,NOT MODELED
+battery-pack,1,180x70x65 envelope with BMS,voltage chemistry capacity UNCONFIRMED
+battery-tray,1,Removable tray with two straps,concept geometry
+controller,1,ESP32 BLE board plus CAN transceiver,PCB envelope 78x45
+sensor-adc,2,Low latency ADC and force signal conditioning,part selection pending
+hardware-watchdog,1,Independent hardware permit watchdog,circuit pending
+contactor,1,DC rated power contactor with feedback,part selection pending
+estop,1,Latching mushroom with NC contacts,verify dimensions and ratings
+deadman,1,Wired held-to-run permit,NOT MODELED
+protection,1,Fuses DC-DC precharge regen protection and disconnect,ratings pending measured currents
+guard,1,Polymer 3 mm guard,add fasteners seals vents and cable entries
+harness,1,Power CAN sensors and coil looms,NOT MODELED
+fasteners,1,Complete fastener kit with positive retention,only M8 positioning envelopes shown

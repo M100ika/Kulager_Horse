@@ -1,0 +1,20 @@
+{
+  "revision": "rA-concept",
+  "base_width_mm": 320,
+  "base_depth_mm": 280,
+  "base_thickness_mm": 6,
+  "base_z_mm": 60,
+  "motor_spacing_mm": 144,
+  "motor_y_mm": -28,
+  "motor_diameter_mm": 98,
+  "motor_height_mm": 61.9,
+  "drum_radius_mm": 25,
+  "drum_width_mm": 18,
+  "mount_spacing_mm": 230,
+  "battery_width_mm": 180,
+  "battery_depth_mm": 70,
+  "battery_height_mm": 65,
+  "bench_travel_mm": 80,
+  "bench_force_n": 5,
+  "bench_speed_mm_s": 10
+}

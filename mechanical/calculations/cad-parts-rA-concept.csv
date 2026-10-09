@@ -1,0 +1,73 @@
+name,description,status,volume_mm3,estimated_mass_kg
+Base,"01.1 / Несущая плита Al 6061, 6 мм",concept part,525880.7,1.4198778803860128
+MountSpacerL90,01.2 / L проставка M8,concept part,3163.58,TBD
+MountBoltL90,01.3 / L M8 условный,fastener envelope,2277.65,TBD
+MountSpacerL105,01.2 / L проставка M001,concept part,3163.58,TBD
+MountBoltL105,01.3 / L M8 условный001,fastener envelope,2277.65,TBD
+RailL,01.4 / L продольная рейка,concept part,49043.97,0.13241872506173205
+SaddleShoeLF,01.5 / LF адаптер к ленчику — подобрать,saddle-dependent placeholder,45831.36,TBD
+PadLF,01.6 / LF прокладка к седлу,concept part,13542.58,TBD
+StrapLF,"01.7 / LF стропа 25 мм, маршрут",routing only,4032.0,TBD
+SaddleShoeLB,01.5 / LB адаптер к ленчику — подобрать,saddle-dependent placeholder,45831.36,TBD
+PadLB,01.6 / LB прокладка к седлу,concept part,13542.58,TBD
+StrapLB,"01.7 / LB стропа 25 мм, маршрут",routing only,4032.0,TBD
+MountSpacerR90,01.2 / R проставка M8,concept part,3163.58,TBD
+MountBoltR90,01.3 / R M8 условный,fastener envelope,2277.65,TBD
+MountSpacerR105,01.2 / R проставка M001,concept part,3163.58,TBD
+MountBoltR105,01.3 / R M8 условный001,fastener envelope,2277.65,TBD
+RailR,01.4 / R продольная рейка,concept part,49043.97,0.13241872506173205
+SaddleShoeRF,01.5 / RF адаптер к ленчику — подобрать,saddle-dependent placeholder,45831.36,TBD
+PadRF,01.6 / RF прокладка к седлу,concept part,13542.58,TBD
+StrapRF,"01.7 / RF стропа 25 мм, маршрут",routing only,4032.0,TBD
+SaddleShoeRB,01.5 / RB адаптер к ленчику — подобрать,saddle-dependent placeholder,45831.36,TBD
+PadRB,01.6 / RB прокладка к седлу,concept part,13542.58,TBD
+StrapRB,"01.7 / RB стропа 25 мм, маршрут",routing only,4032.0,TBD
+MotorAdapterL,02.1 / L адаптер — сверловка AK80 TBD,blank; vendor interface NOT drilled,51128.12,TBD
+MotorL,02.2 / L AK80-64 Ø98 × 61.9,"vendor envelope, not vendor STEP",466909.47,0.85
+ReleaseClutchL,"02.3 / L муфта размыкания NC-off, РЕЗЕРВ",unselected normally-disengaged clutch envelope,76969.02,0.2
+TorqueLimiterL,"02.4 / L ограничитель момента, РЕЗЕРВ",unselected slip limiter envelope,21136.64,0.08
+DrumL,"02.5 / L барабан R25, лента 15 мм",concept part,45722.74,0.12345139659693381
+OutputShaftL,"02.6 / L выходной вал Ø12, отдельно от мотора",concept part,4410.8,TBD
+BearingBridgeL,02.7 / L мост опоры барабана,concept part,25400.07,TBD
+BearingPostLM1,02.8 / L стойка моста,concept part,6403.96,TBD
+BearingPostL1,02.8 / L стойка моста001,concept part,6403.96,TBD
+BearingL,"02.9 / L опора Ø28/12, РЕЗЕРВ","bearing envelope, selection pending",3015.93,TBD
+OutputEncoderL,"02.10 / L энкодер барабана, РЕЗЕРВ",concept part,2304.0,TBD
+WebbingL,03.1 / L тяговая лента → быстросброс → повод,routing; winding and moving poses not modeled,3420.0,TBD
+FairleadL,"03.2 / L направляющая с датчиком усилия, РЕЗЕРВ",sensor fairlead envelope; flexure/load path TBD,10152.0,TBD
+FairleadStandL,03.3 / L стойка направляющей,concept part,39268.8,TBD
+ManualReleaseL,"03.4 / L размыкатель под нагрузкой, РЕЗЕРВ","manual loaded-release envelope, NOT designed hardware",11649.84,TBD
+MotorAdapterR,02.1 / R адаптер — сверловка AK80 TBD,blank; vendor interface NOT drilled,51128.12,TBD
+MotorR,02.2 / R AK80-64 Ø98 × 61.9,"vendor envelope, not vendor STEP",466909.47,0.85
+ReleaseClutchR,"02.3 / R муфта размыкания NC-off, РЕЗЕРВ",unselected normally-disengaged clutch envelope,76969.02,0.2
+TorqueLimiterR,"02.4 / R ограничитель момента, РЕЗЕРВ",unselected slip limiter envelope,21136.64,0.08
+DrumR,"02.5 / R барабан R25, лента 15 мм",concept part,45722.74,0.12345139659693381
+OutputShaftR,"02.6 / R выходной вал Ø12, отдельно от мотора",concept part,4410.8,TBD
+BearingBridgeR,02.7 / R мост опоры барабана,concept part,25400.07,TBD
+BearingPostRM1,02.8 / R стойка моста,concept part,6403.96,TBD
+BearingPostR1,02.8 / R стойка моста001,concept part,6403.96,TBD
+BearingR,"02.9 / R опора Ø28/12, РЕЗЕРВ","bearing envelope, selection pending",3015.93,TBD
+OutputEncoderR,"02.10 / R энкодер барабана, РЕЗЕРВ",concept part,2304.0,TBD
+WebbingR,03.1 / R тяговая лента → быстросброс → повод,routing; winding and moving poses not modeled,3420.0,TBD
+FairleadR,"03.2 / R направляющая с датчиком усилия, РЕЗЕРВ",sensor fairlead envelope; flexure/load path TBD,10152.0,TBD
+FairleadStandR,03.3 / R стойка направляющей,concept part,39268.8,TBD
+ManualReleaseR,"03.4 / R размыкатель под нагрузкой, РЕЗЕРВ","manual loaded-release envelope, NOT designed hardware",11649.84,TBD
+BatteryTray,04.1 / Съёмный лоток батареи,concept part,57774.48,TBD
+Battery,"04.2 / Батарея 180 × 70 × 65, РЕЗЕРВ",pack envelope; electrical selection pending,819000.0,1.15
+BatteryStrapM55,04.3 / Удерживающая стропа батареи,concept part,6768.0,TBD
+BatteryStrap55,04.3 / Удерживающая стропа батареи001,concept part,6768.0,TBD
+PowerConnector,"04.4 / Разъём батареи, резерв доступа",concept part,9747.0,TBD
+ElectronicsShelf,05.1 / Полка электроники,concept part,54687.29,TBD
+ShelfPostM10358,05.2 / Стойка полки,concept part,2526.69,TBD
+ShelfPostM103127,05.2 / Стойка полки001,concept part,2526.69,TBD
+ShelfPost10358,05.2 / Стойка полки002,concept part,2526.69,TBD
+ShelfPost103127,05.2 / Стойка полки003,concept part,2526.69,TBD
+ESP32Board,"05.3 / ESP32 + CAN + ADC, плата 78 × 45","PCB reservation, not a routed board",5616.0,TBD
+ESP32Antenna,05.4 / Зона антенны — без металла сверху,antenna keepout reference,1620.0,TBD
+DCDC,"05.5 / DC/DC питания логики, РЕЗЕРВ",concept part,25920.0,TBD
+SafetyRelay,"05.6 / Аппаратная цепь разрешения, РЕЗЕРВ",concept part,42840.0,TBD
+Fuse,"05.7 / Предохранитель рядом с вводом, РЕЗЕРВ",concept part,10336.0,TBD
+EStopStem,05.8 / E-stop основание,concept part,12164.25,TBD
+EStopHead,05.9 / E-stop фиксируемая кнопка,concept part,11341.15,TBD
+Guard,06.1 / Съёмный защитный кожух 3 мм — прозрачный вид,concept part,783969.37,0.9407632495745276
+WithersClearance,07.1 / Контрольный просвет 140 мм — проверить по седлу,reference only; not anatomical clearance approval,2354800.0,TBD

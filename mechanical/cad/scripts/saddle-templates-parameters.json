@@ -1,0 +1,22 @@
+{
+  "revision": "rB-templates",
+  "saddle": {
+    "seat_size_in": 17,
+    "nominal_seat_size_mm": 430,
+    "body_length_mm": 470,
+    "seat_max_width_mm": 300,
+    "flap_bottom_z_mm": -265,
+    "pad_length_mm": 540,
+    "pad_width_mm": 460,
+    "anchor_half_spacing_mm": 175,
+    "front_anchor_y_mm": 60,
+    "rear_anchor_y_mm": 225,
+    "anchor_z_mm": 80
+  },
+  "variants": [
+    {"id": "v1-front-console", "title": "01 / Передняя консоль", "mode": "console", "module_y_mm": -175, "module_z_offset_mm": 110},
+    {"id": "v2-pommel-bridge", "title": "02 / Мост над передней лукой", "mode": "bridge", "module_y_mm": 20, "module_z_offset_mm": 150},
+    {"id": "v3-side-pods", "title": "03 / Два боковых блока", "mode": "pods", "pod_half_spacing_mm": 235, "motor_center_y_mm": 50, "module_z_offset_mm": 40},
+    {"id": "v4-front-rear-battery", "title": "04 / Передний привод, батарея сзади", "mode": "split", "module_y_mm": -70, "module_z_offset_mm": 110}
+  ]
+}

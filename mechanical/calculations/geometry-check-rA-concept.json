@@ -1,0 +1,450 @@
+{
+  "revision": "rA-concept",
+  "freecad_version": [
+    "1",
+    "1",
+    "3"
+  ],
+  "parts": [
+    {
+      "name": "Base",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 525880.696
+    },
+    {
+      "name": "MountSpacerL90",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 3163.584
+    },
+    {
+      "name": "MountBoltL90",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 2277.655
+    },
+    {
+      "name": "MountSpacerL105",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 3163.584
+    },
+    {
+      "name": "MountBoltL105",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 2277.655
+    },
+    {
+      "name": "RailL",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 49043.972
+    },
+    {
+      "name": "SaddleShoeLF",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 45831.356
+    },
+    {
+      "name": "PadLF",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 13542.584
+    },
+    {
+      "name": "StrapLF",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 4032.0
+    },
+    {
+      "name": "SaddleShoeLB",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 45831.356
+    },
+    {
+      "name": "PadLB",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 13542.584
+    },
+    {
+      "name": "StrapLB",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 4032.0
+    },
+    {
+      "name": "MountSpacerR90",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 3163.584
+    },
+    {
+      "name": "MountBoltR90",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 2277.655
+    },
+    {
+      "name": "MountSpacerR105",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 3163.584
+    },
+    {
+      "name": "MountBoltR105",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 2277.655
+    },
+    {
+      "name": "RailR",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 49043.972
+    },
+    {
+      "name": "SaddleShoeRF",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 45831.356
+    },
+    {
+      "name": "PadRF",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 13542.584
+    },
+    {
+      "name": "StrapRF",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 4032.0
+    },
+    {
+      "name": "SaddleShoeRB",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 45831.356
+    },
+    {
+      "name": "PadRB",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 13542.584
+    },
+    {
+      "name": "StrapRB",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 4032.0
+    },
+    {
+      "name": "MotorAdapterL",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 51128.115
+    },
+    {
+      "name": "MotorL",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 466909.469
+    },
+    {
+      "name": "ReleaseClutchL",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 76969.02
+    },
+    {
+      "name": "TorqueLimiterL",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 21136.635
+    },
+    {
+      "name": "DrumL",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 45722.739
+    },
+    {
+      "name": "OutputShaftL",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 4410.796
+    },
+    {
+      "name": "BearingBridgeL",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 25400.071
+    },
+    {
+      "name": "BearingPostLM1",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 6403.96
+    },
+    {
+      "name": "BearingPostL1",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 6403.96
+    },
+    {
+      "name": "BearingL",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 3015.929
+    },
+    {
+      "name": "OutputEncoderL",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 2304.0
+    },
+    {
+      "name": "WebbingL",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 3420.0
+    },
+    {
+      "name": "FairleadL",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 10152.0
+    },
+    {
+      "name": "FairleadStandL",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 39268.8
+    },
+    {
+      "name": "ManualReleaseL",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 11649.841
+    },
+    {
+      "name": "MotorAdapterR",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 51128.115
+    },
+    {
+      "name": "MotorR",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 466909.469
+    },
+    {
+      "name": "ReleaseClutchR",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 76969.02
+    },
+    {
+      "name": "TorqueLimiterR",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 21136.635
+    },
+    {
+      "name": "DrumR",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 45722.739
+    },
+    {
+      "name": "OutputShaftR",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 4410.796
+    },
+    {
+      "name": "BearingBridgeR",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 25400.071
+    },
+    {
+      "name": "BearingPostRM1",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 6403.96
+    },
+    {
+      "name": "BearingPostR1",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 6403.96
+    },
+    {
+      "name": "BearingR",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 3015.929
+    },
+    {
+      "name": "OutputEncoderR",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 2304.0
+    },
+    {
+      "name": "WebbingR",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 3420.0
+    },
+    {
+      "name": "FairleadR",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 10152.0
+    },
+    {
+      "name": "FairleadStandR",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 39268.8
+    },
+    {
+      "name": "ManualReleaseR",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 11649.841
+    },
+    {
+      "name": "BatteryTray",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 57774.478
+    },
+    {
+      "name": "Battery",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 819000.0
+    },
+    {
+      "name": "BatteryStrapM55",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 6768.0
+    },
+    {
+      "name": "BatteryStrap55",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 6768.0
+    },
+    {
+      "name": "PowerConnector",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 9747.0
+    },
+    {
+      "name": "ElectronicsShelf",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 54687.292
+    },
+    {
+      "name": "ShelfPostM10358",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 2526.689
+    },
+    {
+      "name": "ShelfPostM103127",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 2526.689
+    },
+    {
+      "name": "ShelfPost10358",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 2526.689
+    },
+    {
+      "name": "ShelfPost103127",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 2526.689
+    },
+    {
+      "name": "ESP32Board",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 5616.0
+    },
+    {
+      "name": "ESP32Antenna",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 1620.0
+    },
+    {
+      "name": "DCDC",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 25920.0
+    },
+    {
+      "name": "SafetyRelay",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 42840.0
+    },
+    {
+      "name": "Fuse",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 10336.0
+    },
+    {
+      "name": "EStopStem",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 12164.247
+    },
+    {
+      "name": "EStopHead",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 11341.149
+    },
+    {
+      "name": "Guard",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 783969.375
+    },
+    {
+      "name": "WithersClearance",
+      "valid": true,
+      "solids": 1,
+      "volume_mm3": 2354800.0
+    }
+  ],
+  "critical_clearances_mm": {
+    "MotorL/MotorR": 46.0,
+    "Battery/MotorL": 36.0,
+    "Battery/MotorR": 36.0,
+    "Battery/ElectronicsShelf": 14.0,
+    "Guard/DrumL": 27.1,
+    "Guard/DrumR": 27.1
+  }
+}

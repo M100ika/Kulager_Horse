@@ -1,0 +1,50 @@
+[
+  {
+    "variant": "v1-front-console",
+    "objects": 81,
+    "all_brep_valid": true,
+    "saddle_payload_interferences": [],
+    "rider_reference_intrusion_mm3": 0,
+    "overall_bounds_xyz_mm": [
+      460.0,
+      898.0,
+      607.7
+    ]
+  },
+  {
+    "variant": "v2-pommel-bridge",
+    "objects": 81,
+    "all_brep_valid": true,
+    "saddle_payload_interferences": [],
+    "rider_reference_intrusion_mm3": 381962.3,
+    "overall_bounds_xyz_mm": [
+      460.0,
+      703.0,
+      647.7
+    ]
+  },
+  {
+    "variant": "v3-side-pods",
+    "objects": 75,
+    "all_brep_valid": true,
+    "saddle_payload_interferences": [],
+    "rider_reference_intrusion_mm3": 0,
+    "overall_bounds_xyz_mm": [
+      602.0,
+      724.0,
+      542.7
+    ]
+  },
+  {
+    "variant": "v4-front-rear-battery",
+    "objects": 74,
+    "all_brep_valid": true,
+    "saddle_payload_interferences": [],
+    "rider_reference_intrusion_mm3": 0,
+    "overall_bounds_xyz_mm": [
+      460.0,
+      872.0,
+      608.7
+    ]
+  }
+]

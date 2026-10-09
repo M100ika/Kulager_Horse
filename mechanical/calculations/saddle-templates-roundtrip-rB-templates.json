@@ -1,0 +1,53 @@
+[
+  {
+    "file": "saddle-comparison-rB-templates.FCStd",
+    "objects": 311,
+    "archive_valid": true,
+    "reopened_brep_valid": true
+  },
+  {
+    "file": "saddle-reference-17in-rB-templates.FCStd",
+    "objects": 12,
+    "archive_valid": true,
+    "reopened_brep_valid": true,
+    "step_valid": true,
+    "step_solids": 12,
+    "volume_error_mm3": 2e-06
+  },
+  {
+    "file": "v1-front-console-rB-templates.FCStd",
+    "objects": 81,
+    "archive_valid": true,
+    "reopened_brep_valid": true,
+    "step_valid": true,
+    "step_solids": 79,
+    "volume_error_mm3": 2e-06
+  },
+  {
+    "file": "v2-pommel-bridge-rB-templates.FCStd",
+    "objects": 81,
+    "archive_valid": true,
+    "reopened_brep_valid": true,
+    "step_valid": true,
+    "step_solids": 79,
+    "volume_error_mm3": 2e-06
+  },
+  {
+    "file": "v3-side-pods-rB-templates.FCStd",
+    "objects": 75,
+    "archive_valid": true,
+    "reopened_brep_valid": true,
+    "step_valid": true,
+    "step_solids": 71,
+    "volume_error_mm3": 2e-06
+  },
+  {
+    "file": "v4-front-rear-battery-rB-templates.FCStd",
+    "objects": 74,
+    "archive_valid": true,
+    "reopened_brep_valid": true,
+    "step_valid": true,
+    "step_solids": 71,
+    "volume_error_mm3": 2e-06
+  }
+]
