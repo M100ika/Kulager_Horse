@@ -7,7 +7,18 @@
 *.stp   binary
 *.stl   binary
 *.STL   binary
+*.3mf   binary
+*.dxf   binary
+*.DXF   binary
 *.zip   binary
+*.SLDPRT binary
+*.SLDASM binary
+*.SLDDRW binary
+*.sldprt binary
+*.sldasm binary
+*.slddrw binary
+*.f3d   binary
+*.f3z   binary
 
 # Документы и изображения
 *.pdf   binary

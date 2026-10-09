@@ -13,6 +13,9 @@ desktop.ini
 *.FCStd2
 *.FCBak
 
+# SolidWorks и Office: файлы блокировки открытых документов
+~$*
+
 # KiCad: резервные копии, автосохранение, локальные настройки
 *-backups/
 *.kicad_prl
@@ -40,3 +43,33 @@ node_modules/
 
 # Секреты
 .env
+
+# Локальные настройки и инструкции инструментов разработки
+# Claude
+CLAUDE.md
+CLAUDE.local.md
+.claude/
+.claudeignore
+.mcp.json
+.superpowers/
+docs/superpowers/
+# Codex
+AGENTS.md
+AGENTS.override.md
+.codex/
+codex.md
+# Прочие ассистенты
+.cursor/
+.cursorrules
+.cursorignore
+.github/copilot-instructions.md
+.github/instructions/
+.github/prompts/
+.github/chatmodes/
+GEMINI.md
+.gemini/
+.aider*
+.windsurf/
+.windsurfrules
+.clinerules
+.continue/
